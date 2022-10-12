@@ -1,0 +1,24 @@
+Header:
+    Home:
+        row:
+            product
+            product
+
+        row:
+            product
+            product
+            product
+
+        row:
+            product
+    Checkout:
+        BasketItem
+        BasketItem
+        BasketItem
+
+
+
+
+
+//
+ContextApi and redux
